@@ -1,6 +1,3 @@
-# project-prioritization
-Educational Python project focused on decision-making logic and project prioritization, developed after Python Mundo 1 (Curso em Vídeo).
-
 # Python Mundo 1 – Final Project
 
 This repository contains a final project developed after
